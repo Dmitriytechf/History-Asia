@@ -25,4 +25,4 @@ log_level = 2
 
 android.api = 33
 android.minapi = 21
-android.ndk = 23b
+android.ndk = 25b
