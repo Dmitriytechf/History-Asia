@@ -1,0 +1,24 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
+
+# Игнорировать файлы окружения
+.env
+.env.local
+
+# Игнорировать системные файлы IDE
+.idea/
+.vscode/
+*.swp
+
+# Игнорировать логи и кэш
+*.log
+*.cache
+
+help_info.txt
+*.txt
+Help
+Help/
